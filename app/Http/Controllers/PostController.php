@@ -14,6 +14,6 @@ class PostController extends Controller
     }
      
     public function store() {
-        return 'hello World My name is Shimul ';
+        return 'hello World My name is Shimul Hossain ';
     }
 }
