@@ -14,6 +14,6 @@ class PostController extends Controller
     }
      
     public function store() {
-        return 'hello World My name is Shimul Hossain And I am a  laravel developer';
+        return 'hello World My name is Shimul Hossain And I am a full-time laravel developer';
     }
 }
